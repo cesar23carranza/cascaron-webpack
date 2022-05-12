@@ -5,6 +5,3 @@ import './styles.css';
 const nombre = 'Victorino';
 
 saludar( nombre );
-
-
-
